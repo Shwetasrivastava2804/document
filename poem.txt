@@ -3,6 +3,7 @@ purple
 green
 red
 blue
+unicorn
 yellow
 black
 these are the colors.
